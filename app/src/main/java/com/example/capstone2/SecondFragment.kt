@@ -10,6 +10,7 @@ import com.example.capstone2.databinding.FragmentSecondBinding
 
 /**
  * A simple [Fragment] subclass as the second destination in the navigation.
+ * 추가했다 이부분
  */
 class SecondFragment : Fragment() {
 
